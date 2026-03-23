@@ -1,16 +1,11 @@
-# React + Vite
+🧴 GLOW STOCK — Skincare Inventory ManagerGlowStock, 
+cilt bakım ürünlerinin envanterini profesyonel bir titizlikle takip etmek ve son kullanma tarihleri (SKT) geçmeden önce kullanıcıyı uyarmak için tasarlanmış minimalist bir web uygulamasıdır. Modern web teknolojileriyle geliştirilen bu proje, estetik bir kullanıcı deneyimini tıkır tıkır çalışan bir CRUD (Ekle, Listele, Güncelle, Sil) mantığıyla birleştirir.
+🛠️ Teknik AltyapıFramework: React Styling: Tailwind CSS State Management: React Hooks (useState, useEffect) Build Tool: Vite 
+🚀 Kurulum ve Çalıştırma
+Projeyi yerel bilgisayarınızda çalıştırmak için:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repoyu klonlayın: git clone https://github.com/kullaniciadi/glowstock.git
 
-Currently, two official plugins are available:
+Bağımlılıkları yükleyin: npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Uygulamayı başlatın: npm run dev
